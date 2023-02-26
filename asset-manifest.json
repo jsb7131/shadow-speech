@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shadow-speech/static/css/main.0b54aadd.css",
+    "main.js": "/shadow-speech/static/js/main.54b0075e.js",
+    "static/js/787.eda88c78.chunk.js": "/shadow-speech/static/js/787.eda88c78.chunk.js",
+    "index.html": "/shadow-speech/index.html",
+    "main.0b54aadd.css.map": "/shadow-speech/static/css/main.0b54aadd.css.map",
+    "main.54b0075e.js.map": "/shadow-speech/static/js/main.54b0075e.js.map",
+    "787.eda88c78.chunk.js.map": "/shadow-speech/static/js/787.eda88c78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b54aadd.css",
+    "static/js/main.54b0075e.js"
+  ]
+}
